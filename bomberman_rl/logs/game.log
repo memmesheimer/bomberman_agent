@@ -1,0 +1,199 @@
+2019-03-25 23:09:37,514 [BombeRLeWorld] INFO: Initializing game world
+2019-03-25 23:09:37,650 [BombeRLeWorld] INFO: Starting process for agent <user_agent>
+2019-03-25 23:09:38,060 [BombeRLeWorld] INFO: Starting process for agent <simple_agent_0>
+2019-03-25 23:09:38,066 [BombeRLeWorld] INFO: Starting process for agent <simple_agent_1>
+2019-03-25 23:09:38,071 [BombeRLeWorld] INFO: Starting process for agent <random_agent>
+2019-03-25 23:09:38,075 [BombeRLeWorld] INFO: STARTING ROUND #1
+2019-03-25 23:09:38,178 [BombeRLeWorld] INFO: STARTING STEP 1
+2019-03-25 23:09:38,195 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action DOWN in 0.00s.
+2019-03-25 23:09:38,196 [BombeRLeWorld] INFO: Agent <random_agent> chose action LEFT in 0.00s.
+2019-03-25 23:09:38,196 [BombeRLeWorld] INFO: Agent <user_agent> chose action DOWN in 0.02s.
+2019-03-25 23:09:38,196 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action DOWN in 0.00s.
+2019-03-25 23:09:38,278 [BombeRLeWorld] INFO: STARTING STEP 2
+2019-03-25 23:09:38,296 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action BOMB in 0.00s.
+2019-03-25 23:09:38,297 [BombeRLeWorld] INFO: Agent <simple_agent_0> drops bomb at (15, 2)
+2019-03-25 23:09:38,297 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action BOMB in 0.00s.
+2019-03-25 23:09:38,297 [BombeRLeWorld] INFO: Agent <simple_agent_1> drops bomb at (1, 2)
+2019-03-25 23:09:38,297 [BombeRLeWorld] INFO: Agent <random_agent> chose action RIGHT in 0.00s.
+2019-03-25 23:09:38,297 [BombeRLeWorld] INFO: Agent <user_agent> chose action LEFT in 0.02s.
+2019-03-25 23:09:38,378 [BombeRLeWorld] INFO: STARTING STEP 3
+2019-03-25 23:09:38,399 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action UP in 0.00s.
+2019-03-25 23:09:38,399 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action UP in 0.00s.
+2019-03-25 23:09:38,399 [BombeRLeWorld] INFO: Agent <user_agent> chose action LEFT in 0.02s.
+2019-03-25 23:09:38,400 [BombeRLeWorld] INFO: Agent <random_agent> chose action UP in 0.00s.
+2019-03-25 23:09:38,478 [BombeRLeWorld] INFO: STARTING STEP 4
+2019-03-25 23:09:38,499 [BombeRLeWorld] INFO: Agent <user_agent> chose action WAIT in 0.02s.
+2019-03-25 23:09:38,499 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action RIGHT in 0.00s.
+2019-03-25 23:09:38,499 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action LEFT in 0.00s.
+2019-03-25 23:09:38,499 [BombeRLeWorld] INFO: Agent <random_agent> chose action BOMB in 0.00s.
+2019-03-25 23:09:38,499 [BombeRLeWorld] INFO: Agent <random_agent> drops bomb at (15, 14)
+2019-03-25 23:09:38,578 [BombeRLeWorld] INFO: STARTING STEP 5
+2019-03-25 23:09:38,600 [BombeRLeWorld] INFO: Agent <random_agent> chose action LEFT in 0.00s.
+2019-03-25 23:09:38,600 [BombeRLeWorld] INFO: Agent <user_agent> chose action BOMB in 0.02s.
+2019-03-25 23:09:38,600 [BombeRLeWorld] INFO: Agent <user_agent> drops bomb at (1, 15)
+2019-03-25 23:09:38,600 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action RIGHT in 0.00s.
+2019-03-25 23:09:38,600 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action LEFT in 0.00s.
+2019-03-25 23:09:38,678 [BombeRLeWorld] INFO: STARTING STEP 6
+2019-03-25 23:09:38,700 [BombeRLeWorld] INFO: Agent <random_agent> chose action BOMB in 0.00s.
+2019-03-25 23:09:38,700 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action RIGHT in 0.00s.
+2019-03-25 23:09:38,700 [BombeRLeWorld] INFO: Agent <user_agent> chose action WAIT in 0.02s.
+2019-03-25 23:09:38,701 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action LEFT in 0.00s.
+2019-03-25 23:09:38,778 [BombeRLeWorld] INFO: STARTING STEP 7
+2019-03-25 23:09:38,800 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action WAIT in 0.00s.
+2019-03-25 23:09:38,800 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action WAIT in 0.00s.
+2019-03-25 23:09:38,800 [BombeRLeWorld] INFO: Agent <user_agent> chose action DOWN in 0.02s.
+2019-03-25 23:09:38,800 [BombeRLeWorld] INFO: Agent <random_agent> chose action RIGHT in 0.00s.
+2019-03-25 23:09:38,800 [BombeRLeWorld] INFO: Agent <simple_agent_0>'s bomb at (15, 2) explodes
+2019-03-25 23:09:38,800 [BombeRLeWorld] INFO: Coin found at (15, 3)
+2019-03-25 23:09:38,801 [BombeRLeWorld] INFO: Agent <simple_agent_1>'s bomb at (1, 2) explodes
+2019-03-25 23:09:38,878 [BombeRLeWorld] INFO: STARTING STEP 8
+2019-03-25 23:09:38,900 [BombeRLeWorld] INFO: Agent <user_agent> chose action RIGHT in 0.02s.
+2019-03-25 23:09:38,900 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action BOMB in 0.00s.
+2019-03-25 23:09:38,900 [BombeRLeWorld] INFO: Agent <simple_agent_1> drops bomb at (2, 1)
+2019-03-25 23:09:38,901 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action BOMB in 0.00s.
+2019-03-25 23:09:38,901 [BombeRLeWorld] INFO: Agent <simple_agent_0> drops bomb at (14, 1)
+2019-03-25 23:09:38,901 [BombeRLeWorld] INFO: Agent <random_agent> chose action UP in 0.00s.
+2019-03-25 23:09:38,979 [BombeRLeWorld] INFO: STARTING STEP 9
+2019-03-25 23:09:39,001 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action RIGHT in 0.00s.
+2019-03-25 23:09:39,002 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action LEFT in 0.00s.
+2019-03-25 23:09:39,002 [BombeRLeWorld] INFO: Agent <random_agent> chose action DOWN in 0.00s.
+2019-03-25 23:09:39,002 [BombeRLeWorld] INFO: Agent <user_agent> chose action WAIT in 0.02s.
+2019-03-25 23:09:39,002 [BombeRLeWorld] INFO: Agent <random_agent>'s bomb at (15, 14) explodes
+2019-03-25 23:09:39,003 [BombeRLeWorld] INFO: Agent <random_agent> blown up by own bomb
+2019-03-25 23:09:39,079 [BombeRLeWorld] INFO: STARTING STEP 10
+2019-03-25 23:09:39,098 [BombeRLeWorld] INFO: Agent <user_agent> chose action UP in 0.02s.
+2019-03-25 23:09:39,098 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action DOWN in 0.00s.
+2019-03-25 23:09:39,098 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action DOWN in 0.00s.
+2019-03-25 23:09:39,099 [BombeRLeWorld] INFO: Agent <user_agent>'s bomb at (1, 15) explodes
+2019-03-25 23:09:39,099 [BombeRLeWorld] INFO: Agent <user_agent> blown up by own bomb
+2019-03-25 23:09:39,179 [BombeRLeWorld] INFO: STARTING STEP 11
+2019-03-25 23:09:39,181 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action DOWN in 0.00s.
+2019-03-25 23:09:39,182 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action DOWN in 0.00s.
+2019-03-25 23:09:39,182 [BombeRLeWorld] INFO: Agent <simple_agent_0> picked up coin at (15, 3) and receives 1 point
+2019-03-25 23:09:39,279 [BombeRLeWorld] INFO: STARTING STEP 12
+2019-03-25 23:09:39,281 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action DOWN in 0.00s.
+2019-03-25 23:09:39,281 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action DOWN in 0.00s.
+2019-03-25 23:09:39,379 [BombeRLeWorld] INFO: STARTING STEP 13
+2019-03-25 23:09:39,381 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action DOWN in 0.00s.
+2019-03-25 23:09:39,381 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action DOWN in 0.00s.
+2019-03-25 23:09:39,381 [BombeRLeWorld] INFO: Agent <simple_agent_1>'s bomb at (2, 1) explodes
+2019-03-25 23:09:39,382 [BombeRLeWorld] INFO: Agent <simple_agent_0>'s bomb at (14, 1) explodes
+2019-03-25 23:09:39,479 [BombeRLeWorld] INFO: STARTING STEP 14
+2019-03-25 23:09:39,481 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action BOMB in 0.00s.
+2019-03-25 23:09:39,481 [BombeRLeWorld] INFO: Agent <simple_agent_0> drops bomb at (15, 5)
+2019-03-25 23:09:39,481 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action BOMB in 0.00s.
+2019-03-25 23:09:39,481 [BombeRLeWorld] INFO: Agent <simple_agent_1> drops bomb at (1, 5)
+2019-03-25 23:09:39,579 [BombeRLeWorld] INFO: STARTING STEP 15
+2019-03-25 23:09:39,582 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action UP in 0.00s.
+2019-03-25 23:09:39,582 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action UP in 0.00s.
+2019-03-25 23:09:39,682 [BombeRLeWorld] INFO: STARTING STEP 16
+2019-03-25 23:09:39,688 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action UP in 0.00s.
+2019-03-25 23:09:39,688 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action UP in 0.00s.
+2019-03-25 23:09:39,782 [BombeRLeWorld] INFO: STARTING STEP 17
+2019-03-25 23:09:39,787 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action UP in 0.00s.
+2019-03-25 23:09:39,787 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action UP in 0.00s.
+2019-03-25 23:09:39,882 [BombeRLeWorld] INFO: STARTING STEP 18
+2019-03-25 23:09:39,885 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action UP in 0.00s.
+2019-03-25 23:09:39,886 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action UP in 0.00s.
+2019-03-25 23:09:39,982 [BombeRLeWorld] INFO: STARTING STEP 19
+2019-03-25 23:09:39,985 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action LEFT in 0.00s.
+2019-03-25 23:09:39,986 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action RIGHT in 0.00s.
+2019-03-25 23:09:39,986 [BombeRLeWorld] INFO: Agent <simple_agent_0>'s bomb at (15, 5) explodes
+2019-03-25 23:09:39,986 [BombeRLeWorld] INFO: Agent <simple_agent_1>'s bomb at (1, 5) explodes
+2019-03-25 23:09:40,082 [BombeRLeWorld] INFO: STARTING STEP 20
+2019-03-25 23:09:40,085 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action RIGHT in 0.00s.
+2019-03-25 23:09:40,086 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action LEFT in 0.00s.
+2019-03-25 23:09:40,182 [BombeRLeWorld] INFO: STARTING STEP 21
+2019-03-25 23:09:40,185 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action DOWN in 0.00s.
+2019-03-25 23:09:40,185 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action LEFT in 0.00s.
+2019-03-25 23:09:40,283 [BombeRLeWorld] INFO: STARTING STEP 22
+2019-03-25 23:09:40,285 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action BOMB in 0.00s.
+2019-03-25 23:09:40,285 [BombeRLeWorld] INFO: Agent <simple_agent_1> drops bomb at (3, 2)
+2019-03-25 23:09:40,285 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action LEFT in 0.00s.
+2019-03-25 23:09:40,383 [BombeRLeWorld] INFO: STARTING STEP 23
+2019-03-25 23:09:40,385 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action DOWN in 0.00s.
+2019-03-25 23:09:40,386 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action UP in 0.00s.
+2019-03-25 23:09:40,487 [BombeRLeWorld] INFO: STARTING STEP 24
+2019-03-25 23:09:40,489 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action BOMB in 0.00s.
+2019-03-25 23:09:40,490 [BombeRLeWorld] INFO: Agent <simple_agent_0> drops bomb at (11, 2)
+2019-03-25 23:09:40,490 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action RIGHT in 0.00s.
+2019-03-25 23:09:40,587 [BombeRLeWorld] INFO: STARTING STEP 25
+2019-03-25 23:09:40,591 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action UP in 0.00s.
+2019-03-25 23:09:40,591 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action RIGHT in 0.00s.
+2019-03-25 23:09:40,687 [BombeRLeWorld] INFO: STARTING STEP 26
+2019-03-25 23:09:40,695 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action LEFT in 0.00s.
+2019-03-25 23:09:40,695 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action RIGHT in 0.00s.
+2019-03-25 23:09:40,787 [BombeRLeWorld] INFO: STARTING STEP 27
+2019-03-25 23:09:40,791 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action RIGHT in 0.00s.
+2019-03-25 23:09:40,791 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action RIGHT in 0.00s.
+2019-03-25 23:09:40,791 [BombeRLeWorld] INFO: Agent <simple_agent_1>'s bomb at (3, 2) explodes
+2019-03-25 23:09:40,792 [BombeRLeWorld] INFO: Coin found at (3, 3)
+2019-03-25 23:09:40,887 [BombeRLeWorld] INFO: STARTING STEP 28
+2019-03-25 23:09:40,893 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action RIGHT in 0.00s.
+2019-03-25 23:09:40,893 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action BOMB in 0.00s.
+2019-03-25 23:09:40,893 [BombeRLeWorld] INFO: Agent <simple_agent_1> drops bomb at (5, 1)
+2019-03-25 23:09:40,987 [BombeRLeWorld] INFO: STARTING STEP 29
+2019-03-25 23:09:40,994 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action RIGHT in 0.00s.
+2019-03-25 23:09:40,994 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action LEFT in 0.00s.
+2019-03-25 23:09:40,995 [BombeRLeWorld] INFO: Agent <simple_agent_0>'s bomb at (11, 2) explodes
+2019-03-25 23:09:41,092 [BombeRLeWorld] INFO: STARTING STEP 30
+2019-03-25 23:09:41,098 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action DOWN in 0.00s.
+2019-03-25 23:09:41,098 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action LEFT in 0.00s.
+2019-03-25 23:09:41,193 [BombeRLeWorld] INFO: STARTING STEP 31
+2019-03-25 23:09:41,196 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action DOWN in 0.00s.
+2019-03-25 23:09:41,197 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action DOWN in 0.00s.
+2019-03-25 23:09:41,293 [BombeRLeWorld] INFO: STARTING STEP 32
+2019-03-25 23:09:41,296 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action DOWN in 0.00s.
+2019-03-25 23:09:41,296 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action DOWN in 0.00s.
+2019-03-25 23:09:41,297 [BombeRLeWorld] INFO: Agent <simple_agent_1> picked up coin at (3, 3) and receives 1 point
+2019-03-25 23:09:41,398 [BombeRLeWorld] INFO: STARTING STEP 33
+2019-03-25 23:09:41,407 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action DOWN in 0.00s.
+2019-03-25 23:09:41,407 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action DOWN in 0.00s.
+2019-03-25 23:09:41,407 [BombeRLeWorld] INFO: Agent <simple_agent_1>'s bomb at (5, 1) explodes
+2019-03-25 23:09:41,498 [BombeRLeWorld] INFO: STARTING STEP 34
+2019-03-25 23:09:41,504 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action DOWN in 0.00s.
+2019-03-25 23:09:41,505 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action DOWN in 0.00s.
+2019-03-25 23:09:41,598 [BombeRLeWorld] INFO: STARTING STEP 35
+2019-03-25 23:09:41,603 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action DOWN in 0.00s.
+2019-03-25 23:09:41,603 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action LEFT in 0.00s.
+2019-03-25 23:09:41,698 [BombeRLeWorld] INFO: STARTING STEP 36
+2019-03-25 23:09:41,702 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action DOWN in 0.00s.
+2019-03-25 23:09:41,702 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action LEFT in 0.00s.
+2019-03-25 23:09:41,798 [BombeRLeWorld] INFO: STARTING STEP 37
+2019-03-25 23:09:41,802 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action BOMB in 0.00s.
+2019-03-25 23:09:41,808 [BombeRLeWorld] INFO: Agent <simple_agent_0> drops bomb at (15, 8)
+2019-03-25 23:09:41,812 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action DOWN in 0.00s.
+2019-03-25 23:09:41,899 [BombeRLeWorld] INFO: STARTING STEP 38
+2019-03-25 23:09:41,906 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action UP in 0.00s.
+2019-03-25 23:09:41,906 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action DOWN in 0.00s.
+2019-03-25 23:09:41,999 [BombeRLeWorld] INFO: STARTING STEP 39
+2019-03-25 23:09:42,003 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action UP in 0.00s.
+2019-03-25 23:09:42,003 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action DOWN in 0.00s.
+2019-03-25 23:09:42,099 [BombeRLeWorld] INFO: STARTING STEP 40
+2019-03-25 23:09:42,102 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action DOWN in 0.00s.
+2019-03-25 23:09:42,103 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action UP in 0.00s.
+2019-03-25 23:09:42,199 [BombeRLeWorld] INFO: STARTING STEP 41
+2019-03-25 23:09:42,203 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action BOMB in 0.00s.
+2019-03-25 23:09:42,203 [BombeRLeWorld] INFO: Agent <simple_agent_1> drops bomb at (1, 9)
+2019-03-25 23:09:42,203 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action LEFT in 0.00s.
+2019-03-25 23:09:42,299 [BombeRLeWorld] INFO: STARTING STEP 42
+2019-03-25 23:09:42,305 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action LEFT in 0.00s.
+2019-03-25 23:09:42,306 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action UP in 0.01s.
+2019-03-25 23:09:42,306 [BombeRLeWorld] INFO: Agent <simple_agent_0>'s bomb at (15, 8) explodes
+2019-03-25 23:09:42,399 [BombeRLeWorld] INFO: STARTING STEP 43
+2019-03-25 23:09:42,406 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action UP in 0.00s.
+2019-03-25 23:09:42,406 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action DOWN in 0.00s.
+2019-03-25 23:09:42,500 [BombeRLeWorld] INFO: STARTING STEP 44
+2019-03-25 23:09:42,507 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action BOMB in 0.00s.
+2019-03-25 23:09:42,507 [BombeRLeWorld] INFO: Agent <simple_agent_0> drops bomb at (13, 6)
+2019-03-25 23:09:42,508 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action UP in 0.00s.
+2019-03-25 23:09:42,600 [BombeRLeWorld] INFO: STARTING STEP 45
+2019-03-25 23:09:42,605 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action UP in 0.00s.
+2019-03-25 23:09:42,605 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action UP in 0.00s.
+2019-03-25 23:09:42,700 [BombeRLeWorld] INFO: STARTING STEP 46
+2019-03-25 23:09:42,709 [BombeRLeWorld] INFO: Agent <simple_agent_0> chose action RIGHT in 0.00s.
+2019-03-25 23:09:42,709 [BombeRLeWorld] INFO: Agent <simple_agent_1> chose action UP in 0.00s.
+2019-03-25 23:09:42,709 [BombeRLeWorld] INFO: Agent <simple_agent_1>'s bomb at (1, 9) explodes
+2019-03-25 23:09:42,760 [BombeRLeWorld] INFO: WRAPPING UP ROUND #1
+2019-03-25 23:09:42,761 [BombeRLeWorld] INFO: Agent <user_agent> loses 1 point for being slowest (avg. 0.019s)
+2019-03-25 23:09:42,761 [BombeRLeWorld] INFO: SHUT DOWN

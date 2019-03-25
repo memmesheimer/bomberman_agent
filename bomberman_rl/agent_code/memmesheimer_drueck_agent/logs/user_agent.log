@@ -1,0 +1,37 @@
+2019-03-25 23:09:37,653 [user_agent_wrapper] INFO: Import agent code from "agent_code/user_agent/callbacks.py"
+2019-03-25 23:09:38,049 [user_agent_wrapper] INFO: Initialize agent code
+2019-03-25 23:09:38,077 [user_agent_wrapper] INFO: STARTING ROUND #1
+2019-03-25 23:09:38,178 [user_agent_wrapper] INFO: STARTING STEP 1
+2019-03-25 23:09:38,178 [user_agent_code] INFO: state is: (1, 15)
+2019-03-25 23:09:38,195 [user_agent_wrapper] INFO: Chose action DOWN after 0.016s of thinking
+2019-03-25 23:09:38,280 [user_agent_wrapper] INFO: STARTING STEP 2
+2019-03-25 23:09:38,280 [user_agent_code] INFO: state is: (1, 15)
+2019-03-25 23:09:38,296 [user_agent_wrapper] INFO: Chose action LEFT after 0.016s of thinking
+2019-03-25 23:09:38,378 [user_agent_wrapper] INFO: STARTING STEP 3
+2019-03-25 23:09:38,379 [user_agent_code] INFO: state is: (1, 15)
+2019-03-25 23:09:38,399 [user_agent_wrapper] INFO: Chose action LEFT after 0.020s of thinking
+2019-03-25 23:09:38,479 [user_agent_wrapper] INFO: STARTING STEP 4
+2019-03-25 23:09:38,479 [user_agent_code] INFO: state is: (1, 15)
+2019-03-25 23:09:38,499 [user_agent_wrapper] INFO: Chose action WAIT after 0.020s of thinking
+2019-03-25 23:09:38,580 [user_agent_wrapper] INFO: STARTING STEP 5
+2019-03-25 23:09:38,580 [user_agent_code] INFO: state is: (1, 15)
+2019-03-25 23:09:38,599 [user_agent_wrapper] INFO: Chose action BOMB after 0.019s of thinking
+2019-03-25 23:09:38,680 [user_agent_wrapper] INFO: STARTING STEP 6
+2019-03-25 23:09:38,680 [user_agent_code] INFO: state is: (1, 15)
+2019-03-25 23:09:38,700 [user_agent_wrapper] INFO: Chose action WAIT after 0.019s of thinking
+2019-03-25 23:09:38,780 [user_agent_wrapper] INFO: STARTING STEP 7
+2019-03-25 23:09:38,780 [user_agent_code] INFO: state is: (1, 15)
+2019-03-25 23:09:38,799 [user_agent_wrapper] INFO: Chose action DOWN after 0.019s of thinking
+2019-03-25 23:09:38,879 [user_agent_wrapper] INFO: STARTING STEP 8
+2019-03-25 23:09:38,879 [user_agent_code] INFO: state is: (1, 15)
+2019-03-25 23:09:38,900 [user_agent_wrapper] INFO: Chose action RIGHT after 0.021s of thinking
+2019-03-25 23:09:38,981 [user_agent_wrapper] INFO: STARTING STEP 9
+2019-03-25 23:09:38,982 [user_agent_code] INFO: state is: (2, 15)
+2019-03-25 23:09:39,001 [user_agent_wrapper] INFO: Chose action WAIT after 0.020s of thinking
+2019-03-25 23:09:39,081 [user_agent_wrapper] INFO: STARTING STEP 10
+2019-03-25 23:09:39,081 [user_agent_code] INFO: state is: (2, 15)
+2019-03-25 23:09:39,098 [user_agent_wrapper] INFO: Chose action UP after 0.017s of thinking
+2019-03-25 23:09:39,100 [user_agent_wrapper] INFO: Received exit message for round
+2019-03-25 23:09:39,100 [user_agent_wrapper] INFO: Round #1 finished
+2019-03-25 23:09:42,761 [user_agent_wrapper] INFO: Received global exit message
+2019-03-25 23:09:42,762 [user_agent_wrapper] INFO: SHUT DOWN
